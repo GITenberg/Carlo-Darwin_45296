@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43204
     wikipedia: http://it.wikipedia.org/wiki/Michele_Lessona
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45296#Carlo-Darwin
 gutenberg_bookshelf: IT Biografie
 gutenberg_issued: '2014-04-01'
 gutenberg_type: Text
